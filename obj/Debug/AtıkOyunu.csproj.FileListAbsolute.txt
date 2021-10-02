@@ -1,0 +1,30 @@
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\bin\Debug\AtıkOyunu.exe.config
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\bin\Debug\AtıkOyunu.exe
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\bin\Debug\AtıkOyunu.pdb
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.csprojAssemblyReference.cache
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.Form1.resources
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.Properties.Resources.resources
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.csproj.GenerateResource.cache
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.csproj.CoreCompileInputs.cache
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.exe
+C:\Users\AKYILDIZ-PC\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.pdb
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\bin\Debug\AtıkOyunu.exe.config
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\bin\Debug\AtıkOyunu.exe
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.csprojAssemblyReference.cache
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.Form1.resources
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.Properties.Resources.resources
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.csproj.GenerateResource.cache
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.exe
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.pdb
+C:\Users\Recep İLYASOĞLU\Desktop\Atık Oyunu\AtıkOyunu\AtıkOyunu\bin\Debug\AtıkOyunu.pdb
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\bin\Debug\AtıkOyunu.exe.config
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\bin\Debug\AtıkOyunu.exe
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\bin\Debug\AtıkOyunu.pdb
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.csprojAssemblyReference.cache
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.Form1.resources
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.Properties.Resources.resources
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.csproj.GenerateResource.cache
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.exe
+C:\Users\Recep İLYASOĞLU\Desktop\Ders\c#\Atık Oyunu\AtıkOyunu\AtıkOyunu\obj\Debug\AtıkOyunu.pdb
