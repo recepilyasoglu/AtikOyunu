@@ -1,15 +1,3 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**					2014-2015 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........:4-Proje
-**				ÖĞRENCİ ADI............:Recep İlyasoğlu
-**				ÖĞRENCİ NUMARASI.......:G171210551
-**              DERSİN ALINDIĞI GRUP...:1C
-****************************************************************************/
 
 using System;
 using System.Collections.Generic;
